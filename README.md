@@ -1,0 +1,2 @@
+# AOPNavigationBack
+基于FDFullscreenPopGesture实现的拦截导航栏返回事件。
